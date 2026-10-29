@@ -4,22 +4,20 @@
 
 This repository hosts official Nino Desktop prereleases, installers, and updater packages.
 
-[Get the latest beta](https://github.com/JIM50051/Nino-Public-Releases/releases/tag/1.0.0-beta-test.30) · [Browse all releases](https://github.com/JIM50051/Nino-Public-Releases/releases)
+[Get Beta 32 Test Build 9](https://github.com/JIM50051/Nino-Public-Releases/releases/tag/1.0.0-beta-test.32.build.9) · [Browse all releases](https://github.com/JIM50051/Nino-Public-Releases/releases)
 
-## Latest release: Beta 30 Hotfix
+## Latest test prerelease: Beta 32 Test Build 9
 
-Beta 30 fixes the Call app not opening in packaged builds. The call screen and its controls now initialize in the installed app.
+This is the newest Windows beta test build. It includes the voice-pack destination-folder fix, the diary persistence path fix, and the fixes included in the build 10 source rebuild. It is an unsigned prerelease intended for testing; expect bugs and changes.
 
-- [Download the Windows x64 installer](https://github.com/JIM50051/Nino-Public-Releases/releases/download/1.0.0-beta-test.30/Nino-Desktop-Beta-30-Installer.exe)
-- [Update from Beta 29](https://github.com/JIM50051/Nino-Public-Releases/releases/download/1.0.0-beta-test.30/Nino-Desktop-Beta-29-to-Beta-30-Update.zip) · [Patch manifest](https://github.com/JIM50051/Nino-Public-Releases/releases/download/1.0.0-beta-test.30/patch-manifest-build-29.json)
-- [SHA-256 checksums](https://github.com/JIM50051/Nino-Public-Releases/releases/download/1.0.0-beta-test.30/SHA256SUMS.txt)
-- [Beta 30 release notes](https://github.com/JIM50051/Nino-Public-Releases/releases/tag/1.0.0-beta-test.30)
+- [Download the Windows x64 installer](https://github.com/JIM50051/Nino-Public-Releases/releases/download/1.0.0-beta-test.32.build.9/Nino.Desktop.Setup.1.0.0-beta-test.32.build.9.exe)
+- [SHA-256 checksum](https://github.com/JIM50051/Nino-Public-Releases/releases/download/1.0.0-beta-test.32.build.9/SHA256SUMS-Beta32-Test-Build9.txt)
+- [Beta 32 Test Build 9 release notes](https://github.com/JIM50051/Nino-Public-Releases/releases/tag/1.0.0-beta-test.32.build.9)
+- [Previous beta releases](https://github.com/JIM50051/Nino-Public-Releases/releases)
 
-Beta 29 introduced the broader phone, companion, theme, and browser updates. See its [release notes](https://github.com/JIM50051/Nino-Public-Releases/releases/tag/1.0.0-beta-test.29).
+### Updating or installing
 
-### Updating
-
-If you are on Beta 29, open Nino's **Settings → App updates → Check for updates**. To install manually, download the Beta 29 update archive and its manifest from the release page. For a fresh install, use the installer.
+For an existing installation, check **Settings → App updates → Check for updates**. To install this test build manually or perform a fresh install, download and run the installer above. Back up important data before testing prerelease builds.
 
 ## What Nino can do
 
